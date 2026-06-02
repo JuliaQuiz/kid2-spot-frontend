@@ -20,4 +20,6 @@ The tool performs best when the user input closely resembles the sentences in th
 
 **Use full sentences** While the system is designed to understand short, straightforward queries and tolerate minor typos, using overly abbreviated language may cause issues. Stick to complete sentences where possible.
 
+**Use SPOT OSM Tag Bundle Editor** SPOT queries OSM data using a pre-defined list of [OpenStreetMap](https://wiki.openstreetmap.org/wiki/Tags) tag bundles. [This editor](https://tags.findthatspot.io/) shows you which tags are behind a search term and lets you suggest changes for SPOT.
+
 **More behind the scenes** on [GitHub](https://github.com/dw-innovation/kid2-spot). Feel free to reach out if you'd like to collaborate with us on SPOT.
